@@ -75,3 +75,4 @@ Team Member Signatures:
 (Type name here )
 Yuxiang Yuan; 
 Xinjia Shen;
+Lanxin Fu;

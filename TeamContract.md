@@ -77,3 +77,4 @@ Team Member Signatures:
 Yuxiang Yuan; 
 Xinjia Shen;
 Zhenbin An;
+Lanxin Fu;

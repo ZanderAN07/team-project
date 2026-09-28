@@ -11,7 +11,7 @@ Once you have all agreed on the contents of the team contract, make a PR to merg
 ---
 ## Purpose of this Contract
 
-This contract sets out shared expectations and commitments for how our team will collaborate during the course. It is designed to promote accountability, professionalism, and mutual support as we complete individual preparation, readiness assurance tests, in-class activities, and our course project.
+* This contract sets out shared expectations and commitments for how our team will collaborate during the course. It is designed to promote accountability, professionalism, and mutual support as we complete individual preparation, readiness assurance tests, in-class activities, and our course project.
 
 ---
 ## Team Norms and Expectations
@@ -23,6 +23,8 @@ This contract sets out shared expectations and commitments for how our team will
 * Team members will respond to messages within 4 hours (ASAP) on weekdays.
 
 * A teammate should notify if they think they won't be able to meet a deadline.
+
+* If a teammate want to drop the course, they should notify other team member a week before they drop it.
 
 * All communication will remain respectful, professional, and constructive.
 

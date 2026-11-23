@@ -327,7 +327,30 @@ integrated into the game.
 
 ---
 ## How to Run
-[Instructions for running the program.]
+Requirements: JDK 11 or newer and Maven 3.9.x. The build targets Java 11
+using `maven.compiler.release`.
+
+From the project directory:
+
+```bash
+mvn clean test
+mvn compile exec:java
+```
+
+The application entry point is `app.Main`. At S1 it prints a startup message
+and exits; the Java Swing window and navigation will be added in S2.
+All application UI will use Java Swing.
+
+In IntelliJ IDEA, open `pom.xml` as a Maven project, select a project JDK,
+and run `app.Main`, or run the `test` goal from the Maven tool window.
+IntelliJ's bundled Maven can be used if `mvn` is not available in the terminal.
+
+### S1 — Build foundation
+
+- JUnit 5 runs through Maven Surefire; the build fails if no tests are found.
+- Gson is available for JSON adapters; entities and use cases must not depend on it.
+- The initial test verifies JSON text and numeric values survive a round trip.
+- Each completed plan step is committed and pushed separately on a feature branch.
 
 ---
 ## Notes
